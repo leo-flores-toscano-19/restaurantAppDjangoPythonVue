@@ -1,0 +1,79 @@
+{
+    "applicationIssues": [
+        {
+            "id": 1,
+            "response": "If the application is loading slowly, try clearing your browser cache and cookies. This often resolves performance issues.",
+            "type": "performance"
+        },
+        {
+            "id": 2,
+            "response": "For login issues, ensure Caps Lock is off and your password is entered correctly. If you need to reset your password, use the 'Forgot Password' link.",
+            "type": "authentication"
+        },
+        {
+            "id": 3,
+            "response": "If you're seeing a blank screen, try refreshing the page (F5) or clearing your browser cache. If the issue persists, try using a different browser.",
+            "type": "display"
+        },
+        {
+            "id": 4,
+            "response": "Connection timeout errors often indicate network issues. Check your internet connection and try again. If the problem continues, contact your network administrator.",
+            "type": "network"
+        },
+        {
+            "id": 5,
+            "response": "If file uploads are failing, ensure your file is under the size limit (max 10MB) and in an accepted format (PDF, DOC, DOCX, JPG, PNG).",
+            "type": "upload"
+        },
+        {
+            "id": 6,
+            "response": "For browser compatibility issues, we recommend using the latest version of Chrome, Firefox, Safari, or Edge. Internet Explorer is not supported.",
+            "type": "compatibility"
+        },
+        {
+            "id": 7,
+            "response": "If forms aren't submitting, check for required fields marked with an asterisk (*) and ensure all data is in the correct format.",
+            "type": "form"
+        },
+        {
+            "id": 8,
+            "response": "Session timeout issues can be resolved by logging out completely and logging back in. For security, sessions expire after 30 minutes of inactivity.",
+            "type": "session"
+        },
+        {
+            "id": 9,
+            "response": "If reports aren't generating, try clearing your browser cache or downloading in a different format (PDF, CSV, or Excel).",
+            "type": "reporting"
+        },
+        {
+            "id": 10,
+            "response": "For printing issues, ensure your printer is connected and try using the 'Print Preview' option first. PDF format often works best for printing.",
+            "type": "printing"
+        },
+        {
+            "id": 11,
+            "response": "If images aren't loading, check your internet connection and try refreshing the page. You can also try clearing your browser's image cache.",
+            "type": "media"
+        },
+        {
+            "id": 12,
+            "response": "Calendar sync issues can often be resolved by removing and re-adding your calendar integration in the Settings menu.",
+            "type": "integration"
+        },
+        {
+            "id": 13,
+            "response": "If you're experiencing data display issues, try switching between list and grid views, or adjusting your display settings in your profile.",
+            "type": "display"
+        },
+        {
+            "id": 14,
+            "response": "For mobile app issues, ensure you have the latest version installed from your app store and try force-closing and reopening the app.",
+            "type": "mobile"
+        },
+        {
+            "id": 15,
+            "response": "If you're seeing error messages, take a screenshot of the error and note what you were doing when it occurred. This helps our support team assist you better.",
+            "type": "error"
+        }
+    ]
+} 

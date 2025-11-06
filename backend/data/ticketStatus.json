@@ -1,0 +1,54 @@
+{
+    "ticketStatus": [
+        {
+            "id": 1,
+            "response": "Your ticket #12345 is currently being reviewed by our technical team.",
+            "type": "in_progress"
+        },
+        {
+            "id": 2,
+            "response": "Ticket #12346 has been resolved. Please check your email for the solution.",
+            "type": "resolved"
+        },
+        {
+            "id": 3,
+            "response": "We've assigned your ticket #12347 to our senior support team.",
+            "type": "assigned"
+        },
+        {
+            "id": 4,
+            "response": "Your ticket #12348 is pending additional information. Please check your email.",
+            "type": "pending"
+        },
+        {
+            "id": 5,
+            "response": "Ticket #12349 has been escalated to our development team for investigation.",
+            "type": "escalated"
+        },
+        {
+            "id": 6,
+            "response": "Your ticket #12350 is scheduled for resolution within the next 24 hours.",
+            "type": "scheduled"
+        },
+        {
+            "id": 7,
+            "response": "Ticket #12351 has been closed as resolved. Please let us know if you need anything else.",
+            "type": "closed"
+        },
+        {
+            "id": 8,
+            "response": "Your ticket #12352 is awaiting customer feedback. Please check your email.",
+            "type": "awaiting_feedback"
+        },
+        {
+            "id": 9,
+            "response": "Ticket #12353 has been prioritized and is being handled by our urgent response team.",
+            "type": "urgent"
+        },
+        {
+            "id": 10,
+            "response": "Your ticket #12354 is in the queue and will be assigned shortly.",
+            "type": "queued"
+        }
+    ]
+} 

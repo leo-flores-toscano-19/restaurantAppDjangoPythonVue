@@ -1,0 +1,424 @@
+{
+    "deliveries": [
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 245,
+            "month": "January",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 189,
+            "month": "January",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 156,
+            "month": "January",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 178,
+            "month": "January",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 145,
+            "month": "January",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 267,
+            "month": "February",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 198,
+            "month": "February",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 167,
+            "month": "February",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 189,
+            "month": "February",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 156,
+            "month": "February",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 289,
+            "month": "March",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 212,
+            "month": "March",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 178,
+            "month": "March",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 198,
+            "month": "March",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 167,
+            "month": "March",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 312,
+            "month": "April",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 234,
+            "month": "April",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 189,
+            "month": "April",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 212,
+            "month": "April",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 178,
+            "month": "April",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 334,
+            "month": "May",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 245,
+            "month": "May",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 198,
+            "month": "May",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 223,
+            "month": "May",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 189,
+            "month": "May",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 356,
+            "month": "June",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 267,
+            "month": "June",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 212,
+            "month": "June",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 234,
+            "month": "June",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 198,
+            "month": "June",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 378,
+            "month": "July",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 289,
+            "month": "July",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 223,
+            "month": "July",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 245,
+            "month": "July",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 212,
+            "month": "July",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 400,
+            "month": "August",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 312,
+            "month": "August",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 245,
+            "month": "August",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 267,
+            "month": "August",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 223,
+            "month": "August",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 422,
+            "month": "September",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 334,
+            "month": "September",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 267,
+            "month": "September",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 289,
+            "month": "September",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 245,
+            "month": "September",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 445,
+            "month": "October",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 356,
+            "month": "October",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 289,
+            "month": "October",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 312,
+            "month": "October",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 267,
+            "month": "October",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 467,
+            "month": "November",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 378,
+            "month": "November",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 312,
+            "month": "November",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 334,
+            "month": "November",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 289,
+            "month": "November",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Downtown Flagship",
+            "location": "123 Main St, Downtown",
+            "deliveries": 490,
+            "month": "December",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Westside Mall",
+            "location": "456 West Ave, Westside",
+            "deliveries": 400,
+            "month": "December",
+            "provider": "FastDelivery Co"
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "location": "789 East Blvd, Eastside",
+            "deliveries": 334,
+            "month": "December",
+            "provider": "Metro Logistics"
+        },
+        {
+            "storeName": "Northside Center",
+            "location": "321 North Rd, Northside",
+            "deliveries": 356,
+            "month": "December",
+            "provider": "QuickShip Express"
+        },
+        {
+            "storeName": "Southside Square",
+            "location": "654 South St, Southside",
+            "deliveries": 312,
+            "month": "December",
+            "provider": "FastDelivery Co"
+        }
+    ]
+} 

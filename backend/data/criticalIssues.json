@@ -1,0 +1,114 @@
+{
+    "issues": [
+        {
+            "id": 1,
+            "storeName": "Downtown Store",
+            "module": "POS System",
+            "complaint": "System freezes during high-volume transactions",
+            "rating": 2,
+            "date": "2024-03-15",
+            "status": "Critical",
+            "impact": "High",
+            "affectedUsers": 15
+        },
+        {
+            "id": 2,
+            "storeName": "Westside Mall",
+            "module": "Inventory Management",
+            "complaint": "Stock levels not updating in real-time",
+            "rating": 1,
+            "date": "2024-03-14",
+            "status": "Critical",
+            "impact": "High",
+            "affectedUsers": 8
+        },
+        {
+            "id": 3,
+            "storeName": "Eastside Plaza",
+            "module": "Payment Processing",
+            "complaint": "Credit card transactions failing intermittently",
+            "rating": 1,
+            "date": "2024-03-14",
+            "status": "Critical",
+            "impact": "High",
+            "affectedUsers": 12
+        },
+        {
+            "id": 4,
+            "storeName": "Northside Center",
+            "module": "Customer Service",
+            "complaint": "Customer loyalty program not recognizing points",
+            "rating": 2,
+            "date": "2024-03-13",
+            "status": "Critical",
+            "impact": "Medium",
+            "affectedUsers": 20
+        },
+        {
+            "id": 5,
+            "storeName": "Southside Market",
+            "module": "Reporting System",
+            "complaint": "Daily sales reports not generating",
+            "rating": 1,
+            "date": "2024-03-13",
+            "status": "Critical",
+            "impact": "High",
+            "affectedUsers": 5
+        },
+        {
+            "id": 6,
+            "storeName": "Central Square",
+            "module": "POS System",
+            "complaint": "Receipt printer not functioning",
+            "rating": 2,
+            "date": "2024-03-12",
+            "status": "Critical",
+            "impact": "Medium",
+            "affectedUsers": 10
+        },
+        {
+            "id": 7,
+            "storeName": "Riverside Mall",
+            "module": "Inventory Management",
+            "complaint": "Barcode scanner not reading products",
+            "rating": 1,
+            "date": "2024-03-12",
+            "status": "Critical",
+            "impact": "High",
+            "affectedUsers": 7
+        },
+        {
+            "id": 8,
+            "storeName": "Hillside Plaza",
+            "module": "Payment Processing",
+            "complaint": "Cash drawer not opening automatically",
+            "rating": 2,
+            "date": "2024-03-11",
+            "status": "Critical",
+            "impact": "Medium",
+            "affectedUsers": 6
+        },
+        {
+            "id": 9,
+            "storeName": "Valley Center",
+            "module": "Customer Service",
+            "complaint": "Customer database not accessible",
+            "rating": 1,
+            "date": "2024-03-11",
+            "status": "Critical",
+            "impact": "High",
+            "affectedUsers": 9
+        },
+        {
+            "id": 10,
+            "storeName": "Metro Mall",
+            "module": "Reporting System",
+            "complaint": "Inventory alerts not triggering",
+            "rating": 2,
+            "date": "2024-03-10",
+            "status": "Critical",
+            "impact": "Medium",
+            "affectedUsers": 4
+        }
+    ]
+} 

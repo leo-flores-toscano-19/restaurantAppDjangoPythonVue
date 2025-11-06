@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Flash Sale",
+        "description": "25% off on selected items",
+        "type": "promo",
+        "date": "2025-05-01"
+    },
+    {
+        "title": "Weekend Special",
+        "description": "30% off on selected items",
+        "type": "promo",
+        "date": "2025-05-15"
+    },
+    {
+        "title": "Clearance Event",
+        "description": "40% off on selected items",
+        "type": "promo",
+        "date": "2025-06-01"
+    },
+    {
+        "title": "Holiday Discount",
+        "description": "20% off on selected items",
+        "type": "promo",
+        "date": "2025-06-15"
+    },
+    {
+        "title": "Seasonal Sale",
+        "description": "35% off on selected items",
+        "type": "promo",
+        "date": "2025-07-01"
+    },
+    {
+        "title": "Member Exclusive",
+        "description": "45% off on selected items",
+        "type": "promo",
+        "date": "2025-07-15"
+    },
+    {
+        "title": "Early Bird Special",
+        "description": "15% off on selected items",
+        "type": "promo",
+        "date": "2025-08-01"
+    },
+    {
+        "title": "End of Season",
+        "description": "50% off on selected items",
+        "type": "promo",
+        "date": "2025-08-15"
+    },
+    {
+        "title": "Midnight Madness",
+        "description": "30% off on selected items",
+        "type": "promo",
+        "date": "2025-09-01"
+    },
+    {
+        "title": "Back to School",
+        "description": "25% off on selected items",
+        "type": "promo",
+        "date": "2025-09-15"
+    },
+    {
+        "title": "Flash Sale",
+        "description": "40% off on selected items",
+        "type": "promo",
+        "date": "2025-10-01"
+    },
+    {
+        "title": "Weekend Special",
+        "description": "35% off on selected items",
+        "type": "promo",
+        "date": "2025-10-15"
+    },
+    {
+        "title": "Clearance Event",
+        "description": "45% off on selected items",
+        "type": "promo",
+        "date": "2025-11-01"
+    },
+    {
+        "title": "Holiday Discount",
+        "description": "20% off on selected items",
+        "type": "promo",
+        "date": "2025-11-15"
+    },
+    {
+        "title": "Seasonal Sale",
+        "description": "30% off on selected items",
+        "type": "promo",
+        "date": "2025-12-01"
+    }
+] 

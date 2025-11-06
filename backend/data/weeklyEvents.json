@@ -1,0 +1,104 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Store Inventory Audit",
+            "description": "Quarterly inventory audit for all locations",
+            "date": "2024-03-18",
+            "time": "09:00",
+            "type": "task",
+            "priority": "high",
+            "color": "blue"
+        },
+        {
+            "id": 2,
+            "title": "New POS System Training",
+            "description": "Training session for store managers on new POS features",
+            "date": "2024-03-19",
+            "time": "14:00",
+            "type": "meeting",
+            "priority": "medium",
+            "color": "green"
+        },
+        {
+            "id": 3,
+            "title": "Promotion Launch",
+            "description": "Spring sale promotion starts today",
+            "date": "2024-03-20",
+            "time": "00:00",
+            "type": "event",
+            "priority": "high",
+            "color": "yellow"
+        },
+        {
+            "id": 4,
+            "title": "Supplier Meeting",
+            "description": "Meeting with new supplier for product line expansion",
+            "date": "2024-03-21",
+            "time": "11:00",
+            "type": "meeting",
+            "priority": "medium",
+            "color": "purple"
+        },
+        {
+            "id": 5,
+            "title": "Staff Training",
+            "description": "Customer service training for new staff",
+            "date": "2024-03-22",
+            "time": "10:00",
+            "type": "task",
+            "priority": "medium",
+            "color": "pink"
+        },
+        {
+            "id": 6,
+            "title": "System Maintenance",
+            "description": "Scheduled maintenance for POS systems",
+            "date": "2024-03-23",
+            "time": "02:00",
+            "type": "task",
+            "priority": "high",
+            "color": "red"
+        },
+        {
+            "id": 7,
+            "title": "Marketing Review",
+            "description": "Review Q1 marketing performance and plan Q2",
+            "date": "2024-03-24",
+            "time": "13:00",
+            "type": "meeting",
+            "priority": "medium",
+            "color": "indigo"
+        },
+        {
+            "id": 8,
+            "title": "New Store Opening",
+            "description": "Grand opening of new location",
+            "date": "2024-03-25",
+            "time": "09:00",
+            "type": "event",
+            "priority": "high",
+            "color": "orange"
+        },
+        {
+            "id": 9,
+            "title": "Inventory Order",
+            "description": "Place monthly inventory order",
+            "date": "2024-03-26",
+            "time": "15:00",
+            "type": "task",
+            "priority": "medium",
+            "color": "teal"
+        },
+        {
+            "id": 10,
+            "title": "Team Building",
+            "description": "Quarterly team building activity",
+            "date": "2024-03-27",
+            "time": "11:00",
+            "type": "event",
+            "priority": "low",
+            "color": "cyan"
+        }
+    ]
+} 

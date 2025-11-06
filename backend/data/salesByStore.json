@@ -1,0 +1,438 @@
+{
+    "stores": [
+        {
+            "storeName": "Downtown Flagship",
+            "currentSales": 1250000,
+            "previousYearSales": 1180000,
+            "percentageChange": 5.93,
+            "transactions": 12500
+        },
+        {
+            "storeName": "Westside Mall",
+            "currentSales": 980000,
+            "previousYearSales": 950000,
+            "percentageChange": 3.16,
+            "transactions": 9800
+        },
+        {
+            "storeName": "Eastside Plaza",
+            "currentSales": 850000,
+            "previousYearSales": 820000,
+            "percentageChange": 3.66,
+            "transactions": 8500
+        },
+        {
+            "storeName": "Northside Center",
+            "currentSales": 720000,
+            "previousYearSales": 750000,
+            "percentageChange": -4.00,
+            "transactions": 7200
+        },
+        {
+            "storeName": "Southside Square",
+            "currentSales": 690000,
+            "previousYearSales": 650000,
+            "percentageChange": 6.15,
+            "transactions": 6900
+        },
+        {
+            "storeName": "Central Market",
+            "currentSales": 1100000,
+            "previousYearSales": 1050000,
+            "percentageChange": 4.76,
+            "transactions": 11000
+        },
+        {
+            "storeName": "Riverside Outlet",
+            "currentSales": 950000,
+            "previousYearSales": 920000,
+            "percentageChange": 3.26,
+            "transactions": 9500
+        },
+        {
+            "storeName": "Hillside Mall",
+            "currentSales": 880000,
+            "previousYearSales": 900000,
+            "percentageChange": -2.22,
+            "transactions": 8800
+        },
+        {
+            "storeName": "Valley View Center",
+            "currentSales": 750000,
+            "previousYearSales": 730000,
+            "percentageChange": 2.74,
+            "transactions": 7500
+        },
+        {
+            "storeName": "Oceanfront Plaza",
+            "currentSales": 1150000,
+            "previousYearSales": 1100000,
+            "percentageChange": 4.55,
+            "transactions": 11500
+        },
+        {
+            "storeName": "Mountain View Mall",
+            "currentSales": 820000,
+            "previousYearSales": 800000,
+            "percentageChange": 2.50,
+            "transactions": 8200
+        },
+        {
+            "storeName": "Desert Springs",
+            "currentSales": 680000,
+            "previousYearSales": 700000,
+            "percentageChange": -2.86,
+            "transactions": 6800
+        },
+        {
+            "storeName": "Lakeside Center",
+            "currentSales": 920000,
+            "previousYearSales": 890000,
+            "percentageChange": 3.37,
+            "transactions": 9200
+        },
+        {
+            "storeName": "Forest Park Mall",
+            "currentSales": 780000,
+            "previousYearSales": 760000,
+            "percentageChange": 2.63,
+            "transactions": 7800
+        },
+        {
+            "storeName": "Sunset Strip",
+            "currentSales": 1050000,
+            "previousYearSales": 1000000,
+            "percentageChange": 5.00,
+            "transactions": 10500
+        },
+        {
+            "storeName": "Golden Gate Plaza",
+            "currentSales": 890000,
+            "previousYearSales": 870000,
+            "percentageChange": 2.30,
+            "transactions": 8900
+        },
+        {
+            "storeName": "Liberty Square",
+            "currentSales": 760000,
+            "previousYearSales": 780000,
+            "percentageChange": -2.56,
+            "transactions": 7600
+        },
+        {
+            "storeName": "Union Station",
+            "currentSales": 1180000,
+            "previousYearSales": 1120000,
+            "percentageChange": 5.36,
+            "transactions": 11800
+        },
+        {
+            "storeName": "Metro Center",
+            "currentSales": 840000,
+            "previousYearSales": 820000,
+            "percentageChange": 2.44,
+            "transactions": 8400
+        },
+        {
+            "storeName": "Harbor View",
+            "currentSales": 950000,
+            "previousYearSales": 930000,
+            "percentageChange": 2.15,
+            "transactions": 9500
+        },
+        {
+            "storeName": "Pine Valley Mall",
+            "currentSales": 720000,
+            "previousYearSales": 750000,
+            "percentageChange": -4.00,
+            "transactions": 7200
+        },
+        {
+            "storeName": "Crystal Plaza",
+            "currentSales": 880000,
+            "previousYearSales": 850000,
+            "percentageChange": 3.53,
+            "transactions": 8800
+        },
+        {
+            "storeName": "Emerald City",
+            "currentSales": 1020000,
+            "previousYearSales": 980000,
+            "percentageChange": 4.08,
+            "transactions": 10200
+        },
+        {
+            "storeName": "Silver Lake",
+            "currentSales": 790000,
+            "previousYearSales": 770000,
+            "percentageChange": 2.60,
+            "transactions": 7900
+        },
+        {
+            "storeName": "Diamond District",
+            "currentSales": 1120000,
+            "previousYearSales": 1080000,
+            "percentageChange": 3.70,
+            "transactions": 11200
+        },
+        {
+            "storeName": "Platinum Plaza",
+            "currentSales": 860000,
+            "previousYearSales": 840000,
+            "percentageChange": 2.38,
+            "transactions": 8600
+        },
+        {
+            "storeName": "Golden Valley",
+            "currentSales": 740000,
+            "previousYearSales": 760000,
+            "percentageChange": -2.63,
+            "transactions": 7400
+        },
+        {
+            "storeName": "Sapphire Center",
+            "currentSales": 980000,
+            "previousYearSales": 950000,
+            "percentageChange": 3.16,
+            "transactions": 9800
+        },
+        {
+            "storeName": "Ruby Square",
+            "currentSales": 820000,
+            "previousYearSales": 800000,
+            "percentageChange": 2.50,
+            "transactions": 8200
+        },
+        {
+            "storeName": "Pearl Plaza",
+            "currentSales": 1080000,
+            "previousYearSales": 1050000,
+            "percentageChange": 2.86,
+            "transactions": 10800
+        },
+        {
+            "storeName": "Jade Garden",
+            "currentSales": 780000,
+            "previousYearSales": 760000,
+            "percentageChange": 2.63,
+            "transactions": 7800
+        },
+        {
+            "storeName": "Opal Mall",
+            "currentSales": 920000,
+            "previousYearSales": 900000,
+            "percentageChange": 2.22,
+            "transactions": 9200
+        },
+        {
+            "storeName": "Topaz Center",
+            "currentSales": 680000,
+            "previousYearSales": 700000,
+            "percentageChange": -2.86,
+            "transactions": 6800
+        },
+        {
+            "storeName": "Amethyst Plaza",
+            "currentSales": 840000,
+            "previousYearSales": 820000,
+            "percentageChange": 2.44,
+            "transactions": 8400
+        },
+        {
+            "storeName": "Garnet Square",
+            "currentSales": 760000,
+            "previousYearSales": 780000,
+            "percentageChange": -2.56,
+            "transactions": 7600
+        },
+        {
+            "storeName": "Aquamarine Mall",
+            "currentSales": 890000,
+            "previousYearSales": 870000,
+            "percentageChange": 2.30,
+            "transactions": 8900
+        },
+        {
+            "storeName": "Citrine Center",
+            "currentSales": 720000,
+            "previousYearSales": 750000,
+            "percentageChange": -4.00,
+            "transactions": 7200
+        },
+        {
+            "storeName": "Peridot Plaza",
+            "currentSales": 950000,
+            "previousYearSales": 930000,
+            "percentageChange": 2.15,
+            "transactions": 9500
+        },
+        {
+            "storeName": "Onyx Square",
+            "currentSales": 820000,
+            "previousYearSales": 800000,
+            "percentageChange": 2.50,
+            "transactions": 8200
+        },
+        {
+            "storeName": "Moonstone Mall",
+            "currentSales": 880000,
+            "previousYearSales": 850000,
+            "percentageChange": 3.53,
+            "transactions": 8800
+        },
+        {
+            "storeName": "Sunstone Center",
+            "currentSales": 740000,
+            "previousYearSales": 760000,
+            "percentageChange": -2.63,
+            "transactions": 7400
+        },
+        {
+            "storeName": "Bloodstone Plaza",
+            "currentSales": 860000,
+            "previousYearSales": 840000,
+            "percentageChange": 2.38,
+            "transactions": 8600
+        },
+        {
+            "storeName": "Carnelian Square",
+            "currentSales": 780000,
+            "previousYearSales": 760000,
+            "percentageChange": 2.63,
+            "transactions": 7800
+        },
+        {
+            "storeName": "Agate Mall",
+            "currentSales": 920000,
+            "previousYearSales": 900000,
+            "percentageChange": 2.22,
+            "transactions": 9200
+        },
+        {
+            "storeName": "Jasper Center",
+            "currentSales": 680000,
+            "previousYearSales": 700000,
+            "percentageChange": -2.86,
+            "transactions": 6800
+        },
+        {
+            "storeName": "Malachite Plaza",
+            "currentSales": 840000,
+            "previousYearSales": 820000,
+            "percentageChange": 2.44,
+            "transactions": 8400
+        },
+        {
+            "storeName": "Turquoise Square",
+            "currentSales": 760000,
+            "previousYearSales": 780000,
+            "percentageChange": -2.56,
+            "transactions": 7600
+        },
+        {
+            "storeName": "Lapis Mall",
+            "currentSales": 890000,
+            "previousYearSales": 870000,
+            "percentageChange": 2.30,
+            "transactions": 8900
+        },
+        {
+            "storeName": "Obsidian Center",
+            "currentSales": 720000,
+            "previousYearSales": 750000,
+            "percentageChange": -4.00,
+            "transactions": 7200
+        },
+        {
+            "storeName": "Quartz Plaza",
+            "currentSales": 950000,
+            "previousYearSales": 930000,
+            "percentageChange": 2.15,
+            "transactions": 9500
+        },
+        {
+            "storeName": "Feldspar Square",
+            "currentSales": 820000,
+            "previousYearSales": 800000,
+            "percentageChange": 2.50,
+            "transactions": 8200
+        },
+        {
+            "storeName": "Mica Mall",
+            "currentSales": 880000,
+            "previousYearSales": 850000,
+            "percentageChange": 3.53,
+            "transactions": 8800
+        },
+        {
+            "storeName": "Talc Center",
+            "currentSales": 740000,
+            "previousYearSales": 760000,
+            "percentageChange": -2.63,
+            "transactions": 7400
+        },
+        {
+            "storeName": "Gypsum Plaza",
+            "currentSales": 860000,
+            "previousYearSales": 840000,
+            "percentageChange": 2.38,
+            "transactions": 8600
+        },
+        {
+            "storeName": "Calcite Square",
+            "currentSales": 780000,
+            "previousYearSales": 760000,
+            "percentageChange": 2.63,
+            "transactions": 7800
+        },
+        {
+            "storeName": "Fluorite Mall",
+            "currentSales": 920000,
+            "previousYearSales": 900000,
+            "percentageChange": 2.22,
+            "transactions": 9200
+        },
+        {
+            "storeName": "Apatite Center",
+            "currentSales": 680000,
+            "previousYearSales": 700000,
+            "percentageChange": -2.86,
+            "transactions": 6800
+        },
+        {
+            "storeName": "Orthoclase Plaza",
+            "currentSales": 840000,
+            "previousYearSales": 820000,
+            "percentageChange": 2.44,
+            "transactions": 8400
+        },
+        {
+            "storeName": "Plagioclase Square",
+            "currentSales": 760000,
+            "previousYearSales": 780000,
+            "percentageChange": -2.56,
+            "transactions": 7600
+        },
+        {
+            "storeName": "Hornblende Mall",
+            "currentSales": 890000,
+            "previousYearSales": 870000,
+            "percentageChange": 2.30,
+            "transactions": 8900
+        },
+        {
+            "storeName": "Biotite Center",
+            "currentSales": 720000,
+            "previousYearSales": 750000,
+            "percentageChange": -4.00,
+            "transactions": 7200
+        },
+        {
+            "storeName": "Muscovite Plaza",
+            "currentSales": 950000,
+            "previousYearSales": 930000,
+            "percentageChange": 2.15,
+            "transactions": 9500
+        }
+    ]
+} 

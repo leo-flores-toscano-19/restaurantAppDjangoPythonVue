@@ -1,0 +1,54 @@
+{
+    "configuration": [
+        {
+            "id": 1,
+            "response": "To configure your email settings, go to Settings > Email and enter your SMTP server details.",
+            "type": "email"
+        },
+        {
+            "id": 2,
+            "response": "You can customize your dashboard layout by dragging and dropping widgets in the Dashboard Settings.",
+            "type": "dashboard"
+        },
+        {
+            "id": 3,
+            "response": "To set up two-factor authentication, navigate to Security Settings and follow the setup wizard.",
+            "type": "security"
+        },
+        {
+            "id": 4,
+            "response": "Your API keys can be managed in the Developer Settings section. Remember to keep them secure.",
+            "type": "api"
+        },
+        {
+            "id": 5,
+            "response": "To configure backup settings, go to System > Backup and select your preferred backup schedule.",
+            "type": "backup"
+        },
+        {
+            "id": 6,
+            "response": "You can customize notification preferences in the Notification Center under User Settings.",
+            "type": "notifications"
+        },
+        {
+            "id": 7,
+            "response": "To set up custom domains, visit the Domain Settings page and follow the DNS configuration guide.",
+            "type": "domain"
+        },
+        {
+            "id": 8,
+            "response": "Your integration settings can be configured in the Integrations tab. Select your desired services to connect.",
+            "type": "integrations"
+        },
+        {
+            "id": 9,
+            "response": "To configure user roles and permissions, go to Administration > User Management.",
+            "type": "permissions"
+        },
+        {
+            "id": 10,
+            "response": "You can customize your theme and appearance in the Theme Settings section.",
+            "type": "theme"
+        }
+    ]
+} 

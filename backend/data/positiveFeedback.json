@@ -1,0 +1,54 @@
+{
+    "feedback": [
+        {
+            "id": 1,
+            "storeName": "Downtown Store",
+            "feedbackPerson": "John Smith",
+            "feedbackDetails": "The new inventory system has made our daily operations so much smoother. We can now track stock levels in real-time!",
+            "module": "Inventory Management",
+            "date": "2025-03-15",
+            "rating": 5,
+            "helpful": true
+        },
+        {
+            "id": 2,
+            "storeName": "Westside Mall",
+            "feedbackPerson": "Sarah Johnson",
+            "feedbackDetails": "The customer loyalty program integration is fantastic. Our regular customers love the new features!",
+            "module": "Customer Loyalty",
+            "date": "2025-03-14",
+            "rating": 5,
+            "helpful": true
+        },
+        {
+            "id": 3,
+            "storeName": "Eastside Plaza",
+            "feedbackPerson": "Michael Brown",
+            "feedbackDetails": "The reporting dashboard has significantly improved our decision-making process. Great work!",
+            "module": "Analytics",
+            "date": "2025-03-13",
+            "rating": 4,
+            "helpful": true
+        },
+        {
+            "id": 4,
+            "storeName": "Northside Center",
+            "feedbackPerson": "Emily Davis",
+            "feedbackDetails": "The new employee scheduling system has reduced our administrative time by 50%. Excellent improvement!",
+            "module": "HR Management",
+            "date": "2025-03-12",
+            "rating": 5,
+            "helpful": true
+        },
+        {
+            "id": 5,
+            "storeName": "Southside Market",
+            "feedbackPerson": "David Wilson",
+            "feedbackDetails": "The mobile app integration has made it much easier for our staff to check inventory on the go.",
+            "module": "Mobile Integration",
+            "date": "2025-03-11",
+            "rating": 4,
+            "helpful": true
+        }
+    ]
+} 

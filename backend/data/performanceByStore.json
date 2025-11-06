@@ -1,0 +1,64 @@
+{
+    "stores": [
+        {
+            "storeName": "Downtown",
+            "location": "City Center",
+            "performance": [
+                { "month": "January", "sales": 125000 },
+                { "month": "February", "sales": 132000 },
+                { "month": "March", "sales": 145000 },
+                { "month": "April", "sales": 138000 },
+                { "month": "May", "sales": 152000 },
+                { "month": "June", "sales": 165000 }
+            ]
+        },
+        {
+            "storeName": "Westside",
+            "location": "West District",
+            "performance": [
+                { "month": "January", "sales": 98000 },
+                { "month": "February", "sales": 105000 },
+                { "month": "March", "sales": 112000 },
+                { "month": "April", "sales": 108000 },
+                { "month": "May", "sales": 118000 },
+                { "month": "June", "sales": 125000 }
+            ]
+        },
+        {
+            "storeName": "Eastside",
+            "location": "East District",
+            "performance": [
+                { "month": "January", "sales": 115000 },
+                { "month": "February", "sales": 122000 },
+                { "month": "March", "sales": 135000 },
+                { "month": "April", "sales": 128000 },
+                { "month": "May", "sales": 142000 },
+                { "month": "June", "sales": 155000 }
+            ]
+        },
+        {
+            "storeName": "Northside",
+            "location": "North District",
+            "performance": [
+                { "month": "January", "sales": 105000 },
+                { "month": "February", "sales": 112000 },
+                { "month": "March", "sales": 125000 },
+                { "month": "April", "sales": 118000 },
+                { "month": "May", "sales": 132000 },
+                { "month": "June", "sales": 145000 }
+            ]
+        },
+        {
+            "storeName": "Southside",
+            "location": "South District",
+            "performance": [
+                { "month": "January", "sales": 95000 },
+                { "month": "February", "sales": 102000 },
+                { "month": "March", "sales": 115000 },
+                { "month": "April", "sales": 108000 },
+                { "month": "May", "sales": 122000 },
+                { "month": "June", "sales": 135000 }
+            ]
+        }
+    ]
+} 
