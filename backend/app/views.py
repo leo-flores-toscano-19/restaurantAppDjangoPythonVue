@@ -18,6 +18,7 @@ from app.services.application_issue_service import ApplicationIssueService
 from app.services.ticket_status_service import TicketStatusService
 from app.services.feedback_service import FeedbackService
 from app.services.configuration_service import ConfigurationService
+from app.services.calendar_service import CalendarService
 
 
 # Sales endpoints
@@ -370,6 +371,21 @@ def get_all_configuration(request):
     try:
         service = ConfigurationService()
         data = service.get_all_configuration()
+        return Response(data)
+    except Exception as e:
+        return Response(
+            {'error': str(e)},
+            status=status.HTTP_500_INTERNAL_SERVER_ERROR
+        )
+
+
+# Calendar endpoints
+@api_view(['GET'])
+def get_calendar_data(request):
+    """Get calendar data with events"""
+    try:
+        service = CalendarService()
+        data = service.get_calendar_data()
         return Response(data)
     except Exception as e:
         return Response(

@@ -117,3 +117,12 @@ class ConfigurationDAO(ABC):
         """Get all configuration"""
         pass
 
+
+class CalendarDAO(ABC):
+    """Interface for Calendar data access"""
+    
+    @abstractmethod
+    def get_all(self):
+        """Get calendar data with events"""
+        pass
+

@@ -51,5 +51,8 @@ urlpatterns = [
     # Configuration endpoints
     path('Configuration/getConfiguration/', views.get_configuration, name='get_configuration'),
     path('Configuration/getAllConfiguration/', views.get_all_configuration, name='get_all_configuration'),
+    
+    # Calendar endpoints
+    path('calendar/getCalendarData/', views.get_calendar_data, name='get_calendar_data'),
 ]
 

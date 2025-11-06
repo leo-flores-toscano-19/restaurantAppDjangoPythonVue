@@ -147,3 +147,8 @@ export async function fetchAllConfiguration() {
   return apiFetch('/Configuration/getAllConfiguration/')
 }
 
+// Calendar API
+export async function fetchCalendarData() {
+  return apiFetch('/calendar/getCalendarData/')
+}
+
