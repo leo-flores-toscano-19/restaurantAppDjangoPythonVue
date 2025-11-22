@@ -108,6 +108,12 @@
           v-if="currentView === 'calendar'"
           @go-back="goBack"
         />
+
+        <!-- Tech Stack View -->
+        <TechStackView 
+          v-if="currentView === 'techstack'"
+          @go-back="goBack"
+        />
       </div>
     </div>
 
@@ -120,6 +126,7 @@
       @load-response-time="loadResponseTimeData"
       @load-promotions="loadPromotionsData"
       @load-calendar="setView('calendar')"
+      @load-tech-stack="setView('techstack')"
     />
   </div>
 </template>
@@ -139,6 +146,7 @@ import WeeklyEventsView from './components/views/WeeklyEventsView.vue'
 import CriticalIssuesView from './components/views/CriticalIssuesView.vue'
 import PromotionsView from './components/views/PromotionsView.vue'
 import CalendarView from './components/views/CalendarView.vue'
+import TechStackView from './components/views/TechStackView.vue'
 
 import { 
   fetchSalesData, 
