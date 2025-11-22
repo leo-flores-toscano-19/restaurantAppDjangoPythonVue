@@ -399,24 +399,6 @@ npm test -- --coverage
 - Add tests for uncovered code
 - Focus on business logic and error handling first
 
-### Documentation
-
-- **[TESTING_QUICK_START.md](./TESTING_QUICK_START.md)** - Quick start guide for verifying tests
-- **[TESTING_GUIDE.md](./TESTING_GUIDE.md)** - Complete testing guide with examples
-- **[TESTING.md](./TESTING.md)** - Quick reference for testing patterns
-
-## ⚠️ Deprecation Warnings
-
-During `npm install`, you may see warnings about:
-- `inflight@1.0.6` - deprecated package
-- `glob@7.2.3` - should use v9+
-
-**These warnings are harmless and come from testing framework dependencies.** They don't affect:
-- ✅ Application functionality
-- ✅ Test execution
-- ✅ Build process
-
-See [DEPRECATION_WARNINGS.md](./DEPRECATION_WARNINGS.md) for detailed explanation and solutions.
 
 ## 🔄 Switching Data Sources (JSON → PostgreSQL → MongoDB)
 
@@ -560,25 +542,6 @@ This project follows **Django and Python best practices**:
   - API service layer for all backend communication
   - See [FRONTEND.md](./FRONTEND.md) for detailed frontend documentation
 
-## 📚 Documentation
-
-- **[IMPLEMENTATION_PLAN.md](./IMPLEMENTATION_PLAN.md)** - Detailed implementation guide
-- **[ARCHITECTURE_EXPLANATION.md](./ARCHITECTURE_EXPLANATION.md)** - Learning guide for the stack
-- **[FRONTEND.md](./FRONTEND.md)** - Frontend documentation (Vue.js, Tailwind CSS, PostCSS explained)
-- **[TESTING_QUICK_START.md](./TESTING_QUICK_START.md)** - Quick start: Verify tests & coverage
-- **[TESTING_GUIDE.md](./TESTING_GUIDE.md)** - Complete testing guide with examples
-- **[TESTING.md](./TESTING.md)** - Quick reference for testing patterns
-- **[DEPRECATION_WARNINGS.md](./DEPRECATION_WARNINGS.md)** - Explanation of npm warnings
-- **[SETUP.md](./SETUP.md)** - Setup instructions
-
-## 🎯 Next Steps (Optional Enhancements)
-
-1. Add remaining views (POS Issues, Promotions, Performance, etc.)
-2. Add more menu options to match original app
-3. Enhance chat with more agent types
-4. Add filtering/search functionality
-5. Add data export features
-6. Set up CI/CD pipeline
 
 ## 📄 License
 
